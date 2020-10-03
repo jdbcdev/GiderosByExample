@@ -1,0 +1,6 @@
+--
+title: Learn Gideros and Lua by Example
+subtitle: Gideros and Lua Practical Development 
+author: James Blasco
+...
+---
